@@ -18,7 +18,7 @@ The events are organised by the community, low-cost, often sponsored or even fre
 ---
 
 ## ABAP CodeRetreat
-‌![ABAP CodeRetreat Logo](/images/ABAP CodeRetreat.png)
+‌![ABAP CodeRetreat Logo](./images/ABAP CodeRetreat.png)
 The ABAP CodeRetreat was the first event format in this category. It was invented by Damir Majer and Prof. Dr. Christian Drumm, who adapted this format from the Code Retreat Format. 
 
 ### What is it?
