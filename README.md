@@ -18,7 +18,7 @@ The events are organised by the community, low-cost, often sponsored or even fre
 ---
 
 ## ABAP CodeRetreat
-‌![ABAP CodeRetreat Logo](./images/ABAP CodeRetreat.png)
+‌![ABAP CodeRetreat Logo](images/ABAP CodeRetreat.png)
 The ABAP CodeRetreat was the first event format in this category. It was invented by Damir Majer and Prof. Dr. Christian Drumm, who adapted this format from the Code Retreat Format. 
 
 ### What is it?
@@ -44,7 +44,7 @@ Just bring your laptop, if possible have your own access to a NetWeaver Stack (o
 The ABAP CodeRetreat Format is founded and supported by [Damir Majer](http://scn.sap.com/people/damir.majer) and [Dr. Christian Drumm](http://scn.sap.com/people/christian.drumm) .
 
 ## ABAP BunKai
-‌![ABAP BunKai Logo](./images/abapGit Bunkai.jpg)
+‌![ABAP BunKai Logo](images/abapGit Bunkai.jpg)
 With the Bunkai Formats we like to have a Deep Dive on much more narrow topics. Here we begin with Git and the Client ABAPGit.
 
 ### ABAPGit Bunkai
