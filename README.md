@@ -65,9 +65,10 @@ Interested in hosting an even? Get in contact with one of the facilitators or se
 
 - [@ABAPCodeRetreat](https://twitter.com/ABAPCodeRetreat?lang=de)
 - [@majcon](https://twitter.com/majcon)
-- [ceedee666](https://twitter.com/ceedee666)
+- [@ceedee666](https://twitter.com/ceedee666)
 
-## Websites on the SAP Community Network
+## Websites on the SAP Community Network(SCN)
+- [SCN ABAP Community Overview Page](https://community.sap.com/events/abap-community-events)
 - [ABAP CodeRetreat Wiki](https://wiki.scn.sap.com/wiki/display/events/ABAP+CodeRetreat)
 - [ABAPGitBunKai Wiki](https://wiki.scn.sap.com/wiki/display/events/abapGit+BunKai)
 
