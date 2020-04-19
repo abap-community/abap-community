@@ -44,7 +44,7 @@ Just bring your laptop, if possible have your own access to a NetWeaver Stack (o
 The ABAP CodeRetreat Format is founded and supported by [Damir Majer](http://scn.sap.com/people/damir.majer) and [Dr. Christian Drumm](http://scn.sap.com/people/christian.drumm) .
 
 ## ABAP BunKai
-‌![ABAP BunKai Logo](images/abapGit Bunkai.jpg)
+‌![ABAP BunKai Logo](https://github.com/abap-community/abap-community/blob/master/images/abapGit%20Bunkai.jpg)
 With the Bunkai Formats we like to have a Deep Dive on much more narrow topics. Here we begin with Git and the Client ABAPGit.
 
 ### ABAPGit Bunkai
