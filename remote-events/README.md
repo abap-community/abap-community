@@ -3,6 +3,11 @@
 ## ABAP Netweaver >= 7.40 
 
 Bring your own System or install an ABAP Trial System.
+Here is a description how to install an ABAP Trial System: [link](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html)
+
+## ABAP Development Tools
+
+We will use ABAP Development Tools (aka ABAP in Eclipse) for the Pair-Programming Sessions.
 
 ## Zoom
 
@@ -25,7 +30,9 @@ For the retro periods after each session, a timer of 15 will be set.:w
 
 ## Summary
 
-- [ABAP Netweaver >= 7.40] (https://code.visualstudio.com/)
+- [ABAP Netweaver >= 7.40] (https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html)
+- [ABAP Development Tools] (https://tools.eu1.hana.ondemand.com/#abapl)
+- [ABAP Development Installation Guide] (https://help.sap.com/doc/2e9cf4a457d84c7a81f33d8c3fdd9694/Cloud/en-US/inst_guide_abap_development_tools.pdf)
 - [Zoom] (https://zoom.us/)
 - [Slack] (https://slack.com)
 
