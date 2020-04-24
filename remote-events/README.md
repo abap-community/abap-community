@@ -13,7 +13,7 @@ We will use ABAP Development Tools (aka ABAP in Eclipse) for the Pair-Programmin
 
 When we all have to talk together, we will use [Zoom] (https://zoom.us/). To join the call, you will have to install the software, but it is not necessary to have an account.
 
-### How to interact in Zoom? -> Camera Always On and be plite ;-)
+### How to interact in Zoom? -> Camera Always On and be polite ;-)
 
 The Short answer is **Camera Always On** and take **care of each others**. Let others formulate what they have in mind and listen to them don´t interrupt your Teammates.
 
