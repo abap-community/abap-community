@@ -13,6 +13,10 @@ We will use ABAP Development Tools (aka ABAP in Eclipse) for the Pair-Programmin
 
 When we all have to talk together, we will use [Zoom] (https://zoom.us/). To join the call, you will have to install the software, but it is not necessary to have an account.
 
+### How to interact in Zoom? -> Camera Always On and be plite ;-)
+
+The Short answer is **Camera Always On** and take **care of each others**. Let others formulate what they have in mind and listen to them don´t interrupt your Teammates.
+
 ## Slack
 
 We will use [Slack] (https://slack.com/) as a coordination tool. Check the sections on ** How can I participate? ** or ** How will we coordinate during the event? ** for more details.
@@ -26,7 +30,7 @@ No need to install anything, just open this website, to see the time left until 
 
 https://cuckoo.team/abap-community
 
-For the retro periods after each session, a timer of 15 will be set.:w
+For the retro periods after each session, a timer of 15 will be set.
 
 ## Summary
 
