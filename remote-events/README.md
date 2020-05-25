@@ -54,7 +54,7 @@ The document has 4 sheets, one per iteration. In each iteration we will identify
 
 It is the responsibility of the person directing to register their user.
 
-Whej defining who your partner will be during the iteration, we will use Slack to coordinate.
+For defining who your partner will be during the iteration, we will use Slack to coordinate.
 
 # How will we coordinate during the event?
 
