@@ -17,10 +17,6 @@ When we all have to talk together, we will use [Zoom] (https://zoom.us/). To joi
 
 The Short answer is **Camera Always On** and take **care of each others**. Let others formulate what they have in mind and listen to them don´t interrupt your Teammates.
 
-## Slack
-
-We will use [Slack] (https://slack.com/) as a coordination tool. Check the sections on ** How can I participate? ** or ** How will we coordinate during the event? ** for more details.
-
 ## Cuckoo
 
 It is a web app to measure the time of the iterations and intervals between them.
@@ -32,13 +28,16 @@ https://cuckoo.team/abap-community
 
 For the retro periods after each session, a timer of 15 will be set.
 
+## Slack
+
+Optionally if you like you can join our ABAP Community Slack Channel [Slack] (https://slack.com/). The registration Link is [here](https://join.slack.com/t/abapcommunity/shared_invite/zt-6har4mdx-f_HDuSmaw6VmyEr4ZDDO2g).
+
 ## Summary
 
 - [ABAP Netweaver >= 7.40] (https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html)
 - [ABAP Development Tools] (https://tools.eu1.hana.ondemand.com/#abapl)
 - [ABAP Development Installation Guide] (https://help.sap.com/doc/2e9cf4a457d84c7a81f33d8c3fdd9694/Cloud/en-US/inst_guide_abap_development_tools.pdf)
 - [Zoom] (https://zoom.us/)
-- [Slack] (https://slack.com)
 
 # What will we do during the Remote Coderetreat?
 
