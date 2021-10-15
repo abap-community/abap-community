@@ -1,9 +1,11 @@
 # What do I have to have installed?
 
-## ABAP Netweaver >= 7.40 
+## ABAP Netweaver >= 7.40 or SAP BTP ABAP Environment 
 
 Bring your own System or install an ABAP Trial System.
 Here is a description how to install an ABAP Trial System: [link](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html)
+
+An alternative to installing the ABAP Trial System is to use the [SAP BTP ABAP Environemt](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
 
 ## ABAP Development Tools
 
