@@ -11,7 +11,7 @@ We will use ABAP Development Tools (aka ABAP in Eclipse) for the Pair-Programmin
 
 ## Zoom
 
-When we all have to talk together, we will use [Zoom] (https://zoom.us/). To join the call, you will have to install the software, but it is not necessary to have an account.
+When we all have to talk together, we will use [Zoom](https://zoom.us/). To join the call, you will have to install the software, but it is not necessary to have an account.
 
 ### How to interact in Zoom? -> Camera Always On and be polite ;-)
 
@@ -30,14 +30,14 @@ For the retro periods after each session, a timer of 15 will be set.
 
 ## Slack
 
-Optionally if you like you can join our ABAP Community Slack Channel [Slack] (https://slack.com/). The registration Link is [here](https://join.slack.com/t/abapcommunity/shared_invite/zt-6har4mdx-f_HDuSmaw6VmyEr4ZDDO2g).
+Optionally if you like you can join our ABAP Community Slack Channel [Slack](https://slack.com/). The registration Link is [here](https://join.slack.com/t/abapcommunity/shared_invite/zt-6har4mdx-f_HDuSmaw6VmyEr4ZDDO2g).
 
 ## Summary
 
-- [ABAP Netweaver >= 7.40] (https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html)
-- [ABAP Development Tools] (https://tools.eu1.hana.ondemand.com/#abapl)
-- [ABAP Development Installation Guide] (https://help.sap.com/doc/2e9cf4a457d84c7a81f33d8c3fdd9694/Cloud/en-US/inst_guide_abap_development_tools.pdf)
-- [Zoom] (https://zoom.us/)
+- [ABAP Netweaver >= 7.40](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html)
+- [ABAP Development Tools](https://tools.eu1.hana.ondemand.com/#abapl)
+- [ABAP Development Installation Guide](https://help.sap.com/doc/2e9cf4a457d84c7a81f33d8c3fdd9694/Cloud/en-US/inst_guide_abap_development_tools.pdf)
+- [Zoom](https://zoom.us/)
 
 # What will we do during the Remote Coderetreat?
 
@@ -63,7 +63,7 @@ We will have a video call using Zoom. The Zoom video call will always be open fo
 
 # What problem are we going to tackle?
 
-It is customary in Coderetreats that usually the chosen kata is the [Conway's Game of Life] (https://www.coderetreat.org/pages/facilitating/gol/). We changed a little bit this convention and we choose different Code-Kata´s to make the events more incalculable
+It is customary in Coderetreats that usually the chosen kata is the [Conway's Game of Life](https://www.coderetreat.org/pages/facilitating/gol/). We changed a little bit this convention and we choose different Code-Kata´s to make the events more incalculable
 
 # Code of conduct
 
