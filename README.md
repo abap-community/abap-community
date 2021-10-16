@@ -1,6 +1,8 @@
 ## ABAP Community Events
 [**Code Retreat**](#abap-coderetreat)
 &nbsp;·&nbsp;
+[**Enterprise CodeReadingClub**](#enterprise-code-reading-club)
+&nbsp;·&nbsp;
 [**Bunkai**](#abapgit-bunkai)
 
 In recent years, several ABAP Community Events have evolved. Every ABAP Community Event Format is structured to help attendees share knowledge, to learn new SAP technologies together, and to hone their skills.
@@ -43,6 +45,9 @@ Just bring your laptop, if possible have your own access to a NetWeaver Stack (o
 
 ### Who supports ABAP CodeRetreats?
 The ABAP CodeRetreat Format is founded and supported by [Damir Majer](http://scn.sap.com/people/damir.majer) and [Dr. Christian Drumm](http://scn.sap.com/people/christian.drumm) .
+
+## Enterprise CodeReadingClub
+With Format we like to have a serious insight into the topic of Code reading. How this is done in an effective way, and what lessons we can take from those experiences.
 
 ## ABAP BunKai
 ‌![ABAP BunKai Logo](https://github.com/abap-community/abap-community/blob/master/images/abapGit%20Bunkai.jpg)
