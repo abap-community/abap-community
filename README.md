@@ -64,7 +64,7 @@ The second Community event format is ABAPGit BunKai, which was founded by and is
 Beginning in 2019 the format will evolve. This means that Christian and Damir will facilitate eight events per year (4 in Germany and 4 outside Germany). Everyone from the community is highly welcomed to organise and moderate a CodeRetreat. Don’t hesitate to contact us if you’re like to organise on yourself an Event, and need support related to that!
 
 ## Communication
-As an ABAP Community, we use Slack Collaboration Tool. You’re welcome to join our [ABAP Community Slack channel](https://join.slack.com/t/abapcommunity/shared_invite/enQtNTA3ODQwNTExMzE3LTVjMTZhNDBjMmYxYWFkZWY4N2ZiNTJhNTM5MjZlNDcyMzgyYWZkNGM2ZjFkMjRjYWE2NTBmYzdhZDhjZmFhZTE).
+As an ABAP Community, we use Slack Collaboration Tool. You’re welcome to join our [ABAP Community Slack channel](https://join.slack.com/t/abapcommunity/shared_invite/zt-6har4mdx-f_HDuSmaw6VmyEr4ZDDO2g).
 
 Interested in hosting an even? Get in contact with one of the facilitators or send us a message via Twitter
 
